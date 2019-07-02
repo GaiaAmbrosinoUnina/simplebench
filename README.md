@@ -1,5 +1,7 @@
 # Simple Container Benchmarks
 
+CPU
+
 [![DockerPulls](https://img.shields.io/docker/pulls/misterbisson/simple-container-benchmarks.svg)](https://registry.hub.docker.com/u/misterbisson/simple-container-benchmarks/)
 [![DockerStars](https://img.shields.io/docker/stars/misterbisson/simple-container-benchmarks.svg)](https://registry.hub.docker.com/u/misterbisson/simple-container-benchmarks/)
 
